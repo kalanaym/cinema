@@ -1,0 +1,8 @@
+.htaccess
+administrator/cache/* 
+tmp/*
+configuration.php
+index.php
+joomla.xml
+robots.txt.dist
+*.txt 
